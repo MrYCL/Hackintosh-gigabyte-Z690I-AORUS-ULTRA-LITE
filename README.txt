@@ -24,5 +24,5 @@ BIOS F22~23
 4.CSM - off
 5.VT-x - on
 6.Above 4G decoding - on
-7.Re-Size BAR Support - on
+7.Re-Size BAR Support - off
 8.XHCI Hand-off - on
